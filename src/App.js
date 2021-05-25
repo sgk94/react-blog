@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className="App">
      <div className="content">
-       <h1>Arrow Prac Component</h1>
+       <h1>This is the React Blog</h1>
      </div>
     </div>
   );
